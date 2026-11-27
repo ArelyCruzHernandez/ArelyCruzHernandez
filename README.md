@@ -1,7 +1,7 @@
 [README (1).md](https://github.com/ArelyCruzHernandez)
 # Hola, soy Arely Cruz Hernandez 
 
-### Middle Software Developer
+### Middle Software Developer 
 
 Soy desarrolladora de software con enfoque en Back-End e ingeniería de software. Me interesa el diseño y desarrollo de soluciones tecnológicas eficientes, funcionales y escalables, aplicando buenas prácticas de programación, arquitectura y diseño de software. Me caracterizo por mi interés en el aprendizaje continuo y la mejora constante de mis habilidades.
 
